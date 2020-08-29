@@ -18,6 +18,7 @@ It was noted that the model preformed better with a simple neural network with o
 
 ## Resources
 ### Data
+[loans_status.csv](https://github.com/Muzznah/NeuralNetworks/blob/master/loan_status.csv)
 ### Software
 Python 3.7.7, Jupyter Notebook 6.1.1, tensorflow 1.14.0, scikit-learn 0.23.1, and pandas 1.1.0
 
