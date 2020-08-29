@@ -2,7 +2,7 @@
 ## Background 
 The purpose of the project was to create a machiene learning model that could accurately predict, whether or not an applicant will be successful if funded by Alphabet Soup. The criterion of accuracy set for the model was >75%.
 ## Process 
-The maximum accuracy achieved was approx 75%. The model with the best outcome was a basic neural network with one hidden layer which deployed ;(3x)162 neurons with input x=54, activation =relu, and epoch =50. The activation used for ouptut layer was sigmoid.For details see [AlphabetSoupChallenge2](https://github.com/Muzznah/NeuralNetworks/blob/master/AlphabetSoupChallenge-2.ipynb)
+The maximum accuracy achieved was approx 75%. The model with the best outcome was a basic neural network with one hidden layer which deployed ;(2-3X neurons is a best practice and 3x results were slightly better)162 neurons with input x=54, activation =relu, and epoch =50. The activation used for ouptut layer was sigmoid.For details see [AlphabetSoupChallenge2](https://github.com/Muzznah/NeuralNetworks/blob/master/AlphabetSoupChallenge-2.ipynb)
 
 Steps taken to improve the accuracy of the model were:
 
